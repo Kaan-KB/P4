@@ -1,0 +1,73 @@
+
+
+body {
+
+    	background-color: lightgray;
+}
+.navbar {
+    width: 100%;
+}
+.jumbotron{
+
+	background-image: url('https://wallpaperaccess.com/full/774618.jpg'); 
+	background-size: 50%; 
+	 height:200px;
+	color:white;
+}
+h1.upcoming {
+		text-shadow: 1px 1px 1px #800000;
+		color:red;
+		text-align:center;
+}
+.reset {
+	color:gray;
+}
+.submit{
+	color:gray;
+}
+header h3 {
+	font-size: 130%;
+	font-style: italic;
+}
+header img {
+	float: left;
+	padding: 0 3.75%;
+}
+.shadow {
+	text-shadow: 2px 2px 2px #800000;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color:lightgray;
+  text-align:center;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(245, 40, 145, 0.94);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+/* the styles for the footer */
+footer {
+	background-color: black;
+	color: white;
+	clear: both;
+
+}
+footer p {
+	text-align: center;
+	color: white;
+	padding: 1em 0;
+}
+
+
+
+	/* DEVELOPER Kaan Baltaci IS117-006, Spring 2023 */
+}
